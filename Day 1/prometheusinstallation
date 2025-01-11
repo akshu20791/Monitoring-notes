@@ -1,0 +1,10 @@
+sudo su
+apt update 
+wget https://github.com/prometheus/prometheus/releases/download/v2.34.0/prometheus-2.34.0.linux-amd64.tar.gz
+
+ls
+tar zxvf prometheus-2.34.0.linux-amd64.tar.gz
+
+ls
+cd prometheus-2.34.0.linux-amd64
+ls
